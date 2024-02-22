@@ -8,7 +8,7 @@
 
 #import <XCTest/XCTest.h>
 
-@interface MyLayoutUITests : XCTestCase
+@interface MyLayoutUITests : XCTestCase      
 
 @end
 
